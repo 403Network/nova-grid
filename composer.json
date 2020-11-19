@@ -23,7 +23,7 @@
         {
             "type":"package",
             "package": {
-                "name": "nibri10/nova-grid",
+                "name": "403network/nova-grid",
                 "version":"master",
                 "source": {
                     "url": "https://github.com/403network/nova-grid.git",
