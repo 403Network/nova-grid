@@ -1,5 +1,5 @@
 {
-    "name": "nibri10/nova-grid",
+    "name": "403network/nova-grid",
     "description": "Add coluns to create and Update resources",
     "keywords": [
         "laravel",
@@ -12,7 +12,7 @@
        
     },
      "require-dev": {
-          "nibri10/nova-grid" : "dev-master"
+          "403network/nova-grid" : "dev-master"
      },
     "autoload": {
         "psr-4": {
@@ -26,7 +26,7 @@
                 "name": "nibri10/nova-grid",
                 "version":"master",
                 "source": {
-                    "url": "https://github.com/nibri10/nova-grid.git",
+                    "url": "https://github.com/403network/nova-grid.git",
                     "type": "git",
                     "reference":"master"
                 }
